@@ -8,4 +8,4 @@ MIT License
 
 ## Website
 
-[Opsta (Thailand) Co., Ltd.](https://www.opsta.co.th)
+[Opsta (Thailand) Co., Ltd.](https://www.google.com/)
